@@ -2,7 +2,7 @@
   "name": "@macalinao/barangays",
   "description": "A list of barangays in the Philippines and their corresponding cities and provinces.",
   "author": "Ian Macalinao <me@ianm.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "Apache-2.0",
   "type": "module",
   "sideEffects": false,
