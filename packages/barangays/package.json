@@ -11,6 +11,17 @@
     "src/",
     "README.md"
   ],
+  "repository": "github:macalinao/barangays",
+  "homepage": "https://github.com/macalinao/barangays",
+  "bugs": {
+    "url": "https://github.com/macalinao/barangays/issues"
+  },
+  "keywords": [
+    "barangays",
+    "philippines",
+    "cities",
+    "provinces"
+  ],
   "dependencies": {
     "tslib": "^2.8.1"
   },
