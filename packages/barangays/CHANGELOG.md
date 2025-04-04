@@ -1,5 +1,11 @@
 # @macalinao/barangays
 
+## 0.0.4
+
+### Patch Changes
+
+- c4fae3b: Update dependencies
+
 ## 0.0.3
 
 ### Patch Changes
